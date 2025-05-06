@@ -23,7 +23,7 @@ def generate_trees(nodes):
                     trees.append(t)
     return trees
 
-# Main execution for 4 taxa
+# Main execution for 5 taxa
 taxa = ["A", "B", "C", "D", "E"]
 trees = generate_trees(taxa)
 
